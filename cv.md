@@ -32,3 +32,21 @@ function spread(func, args) {
   return func(...args)
 }
 ```
+
+### Experience
+**Plants:** [https://tertismu.github.io/plants/](https://tertismu.github.io/plants/) 
+
+
+### Education
++ **Belarusian State University**
+    - Faculty of Mechanics and Mathematics
++ **Code basic**
+    - [HTML](https://ru.code-basics.com/languages/html)
+    - [CSS](https://ru.code-basics.com/languages/css)
+    - [JavaScript](https://ru.code-basics.com/languages/javascript)
+
+
+### Languages
+**English:** A2  
+**German:** A1  
+**Russian:** Native
