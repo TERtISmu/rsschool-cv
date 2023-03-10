@@ -15,3 +15,20 @@ I am currently in my third year of studies, specializing in designing software a
 I have also had the chance to work with Verilog, VHDL, and assembler languages. Though they were daunting at first, I have come to appreciate the unique challenges and benefits that each language offers.
 
 As much as I love working with software and hardware, I am always eager to learn something new. Lately, I have been exploring the world of frontend development, specifically HTML, CSS, and JavaScript. I am excited about the visual results that frontend development can offer and the endless possibilities it provides for my growth.
+
+### Skills
+* HTML5, CSS3 basics 
+* JavaSctipt basics
+* Figma
+* VS Code
+* C++
+* Git, GitHub
+* Linux
+* Verilog, VHDL
+
+### Code example
+```
+function spread(func, args) {
+  return func(...args)
+}
+```
